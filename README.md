@@ -1,7 +1,5 @@
 # Horiseon-Challenge
 
-## Purpose
-
 ## Built With
 * HTML
 * CSS
